@@ -1,0 +1,7 @@
+Hi guys!
+This is Scott's 2nd git project.
+Just wanted to practice editing files
+and then working with git.
+This stuff is pretty cool.
+Thanks!
+-Scott
